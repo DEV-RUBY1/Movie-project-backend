@@ -1,0 +1,430 @@
+[
+  {
+    "title": "Sinners",
+    "year": "2025",
+    "rated": "R",
+    "type": "movie",
+    "image": "https://cdn.theplaylist.net/wp-content/uploads/2025/04/15123325/SNNRS_VERT_ENSEMBLE_2764x4096_DOM.jpg"
+  },
+  {
+    "title": "KPop Demon Hunters",
+    "year": "2025",
+    "rated": "PG",
+    "type": "movie",
+    "image": "https://ntvb.tmsimg.com/assets/p30322828_v_h10_aa.jpg?w=1280&h=720"
+  },
+  {
+    "title": "Mantis",
+    "year": "2025",
+    "rated": "TV-MA",
+    "type": "movie",
+    "image": "https://www.heavenofhorror.com/wp-content/uploads/2025/09/Mantis-2025-Netflix-Movie-Review.jpg"
+  },
+
+  {
+    "title": "Straw",
+    "year": "2025",
+    "rated": "TV-MA",
+    "type": "movie",
+    "image": "https://deadline.com/wp-content/uploads/2025/05/Tyler-perry.jpg"
+  },
+  {
+    "title": "Bad Influence",
+    "year": "2025",
+    "rated": "TV-MA",
+    "type": "movie",
+    "image": "https://resizing.flixster.com/4xvS_Kkv3sk4qksNL7Qy0M3TDNQ=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p30133005_v_h9_aa.jpg"
+  },
+  {
+    "title": "Mission: Impossible – Dead Reckoning Part Two",
+    "year": "2025",
+    "rated": "PG-13",
+    "type": "movie",
+    "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2023/07/mission-impossible-dead-reckoning-part-one-tom-cruise-ving-rhames-esai-morales-rebecca-ferguson-simon-pegg-hayley-atwell-pom-klementieff-and-vanessa-kirby.jpg?w=1200&h=675&fit=crop"
+  },
+
+  {
+    "title": "iHostage",
+    "year": "2025",
+    "rated": "TV-MA",
+    "type": "movie",
+    "image": "https://www.heavenofhorror.com/wp-content/uploads/2025/04/iHostage-2025-Netflix-Review-1200x720.jpg"
+  },
+  {
+    "title": "Deadpool & Wolverine",
+    "year": "2024",
+    "rated": "R",
+    "type": "movie",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/deadpool_wolverine_mobile_640x480_ad8020fd.png"
+  },
+  {
+    "title": "Dune: Part Two",
+    "year": "2024",
+    "rated": "PG-13",
+    "type": "movie",
+    "image": "https://musicart.xboxlive.com/7/d8926a00-0000-0000-0000-000000000002/504/image.jpg"
+  },
+  {
+    "title": "A Working Man",
+    "year": "2025",
+    "rated": "R",
+    "type": "movie",
+    "image": "https://www.gamereactor.eu/media/42/workingman_4514233b.jpg"
+  },
+
+  {
+    "title": "The Fall Guy",
+    "year": "2024",
+    "rated": "PG-13",
+    "type": "movie",
+    "image": "https://occ-0-8407-2219.1.nflxso.net/dnm/api/v6/Z-WHgqd_TeJxSuha8aZ5WpyLcX8/AAAABe_RyiNG7sxnmLn9WNnfMZy6y50j5OQ1Wu6agH4sWq1XkLusFJwUQMyEmtAYyyyvoFapEdUCePs9gvsDyktRAaw3dJ7InkPwvtCN.jpg?r=c73"
+  },
+  {
+    "title": "Demon City",
+    "year": "2025",
+    "rated": "TV-MA",
+    "type": "movie",
+    "image": "https://www.heavenofhorror.com/wp-content/uploads/2025/02/Demon-City-2025-Netflix-Review-1200x900.jpg"
+  },
+
+  {
+    "title": "Trigger Warning",
+    "year": "2024",
+    "rated": "TV-MA",
+    "type": "series",
+    "image": "https://occ-0-8407-2219.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABUaImqttwiKkYCCcHM6NyXdW5o_wRS3TyGeWh9MXxkwqBMDtzqQ0g_-CdGU58W0t7BtpucPau4CwlIxFq7_RPVOCdwxDoHZo1USK.jpg?r=3cd"
+  },
+
+  {
+    "title": "Atlas",
+    "year": "2024",
+    "rated": "PG-13",
+    "type": "movie",
+    "image": "https://assets.upreviews.net/view/uploads/eqxn0ik6zcqyuovoxioi.jpg"
+  },
+  {
+    "title": "Deadpool & Wolverine",
+    "year": "2024",
+    "rated": "R",
+    "type": "movie",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/deadpool_wolverine_mobile_640x480_ad8020fd.png"
+  },
+  {
+    "title": "Dune: Part Two",
+    "year": "2024",
+    "rated": "PG-13",
+    "type": "movie",
+    "image": "https://musicart.xboxlive.com/7/d8926a00-0000-0000-0000-000000000002/504/image.jpg"
+  },
+  {
+    "title": "Moana 2",
+    "year": "2024",
+    "rated": "PG",
+    "type": "movie",
+    "image": "https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/ac70c442-571e-48ae-8733-7494bd7d27c6/compose?aspectRatio=1.78&format=webp&width=1200"
+  },
+  {
+    "title": "War of the Worlds",
+    "year": "2025",
+    "rated": "PG-13",
+    "type": "movie",
+    "image": "https://i.ytimg.com/vi/d9erkpdh5o0/maxresdefault.jpg"
+  },
+  {
+    "title": "Venom: The Last Dance",
+    "year": "2024",
+    "rated": "PG-13",
+    "type": "movie",
+    "image": "https://thecollision.org/wp-content/uploads/2024/10/venom.png"
+  },
+  {
+    "title": "Last Bullet",
+    "year": "2025",
+    "rated": "TV-MA",
+    "type": "movie",
+    "image": "https://topfilme.ir/wp-content/uploads/2025/05/last-bullet-19004-626x360.jpg"
+  },
+  {
+    "title": "Mufasa: The Lion King",
+    "year": "2024",
+    "rated": "PG",
+    "type": "movie",
+    "image": "https://miro.medium.com/v2/resize:fit:1400/1*HWdlL2Gr0xETBuwnRq1SGA.jpeg"
+  },
+  {
+    "title": "Madharasi",
+    "year": "2025",
+    "rated": "TV-MA",
+    "type": "movie",
+    "image": "https://cdn.hollywoodreporterindia.com/article/2025-09-05T10%3A34%3A32.828Z-madharaasi-054111320-16x9_0.jpg"
+  },
+  {
+    "title": "Play Dirty",
+    "year": "2025",
+    "rated": "R",
+    "type": "movie",
+    "image": "https://ntvb.tmsimg.com/assets/p31120217_v_h8_aa.jpg?w=960&h=540"
+  },
+  {
+    "title": "Blood Brothers: Bara Naga",
+    "year": "2024",
+    "rated": "R",
+    "type": "movie",
+    "image": "https://occ-0-1694-299.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABXKIdtYCKREaRPQddDNajfZWicQnNn81TxFC1R_9XqH5Yyu1czR1B8GCwjIJGPJyxzruSDzY1984Jut4TLPuGjVlRZ3fgODfflaN.jpg?r=f40"
+  },
+  {
+    "title": "Sikandar",
+    "year": "2025",
+    "rated": "R",
+    "type": "movie",
+    "image": "https://images.moneycontrol.com/static-mcnews/2025/03/20250323094055_Salman-Khan-and-Rashmika-Mandanna-co-starred-in-Sikandar.png?impolicy=website&width=1600&height=900"
+  },
+  {
+    "title": "Twisters",
+    "year": "2024",
+    "rated": "PG-13",
+    "type": "movie",
+    "image": "https://m.media-amazon.com/images/S/pv-target-images/59701f28784c7fa50390a6087cf3cd961a958ed085612cec5d7c5fbdefa7289c.SX1080_FMjpg.jpg"
+  },
+  {
+    "title": "The Siege at Thorn High",
+    "year": "2025",
+    "rated": "TV-MA",
+    "type": "movie",
+    "image": "https://m.media-amazon.com/images/S/pv-target-images/90ec426f5748f290a81b89052eb49fec5dbd296c157b87e68982c3f8e95f514e.jpg"
+  },
+  {
+    "title": "Tyler Perry's Duplicity",
+    "year": "2025",
+    "rated": "R",
+    "type": "movie",
+    "image": "https://m.media-amazon.com/images/M/MV5BNDFiY2RhOTQtYWU5Zi00YTU3LWIzYWEtY2I3NmIxMDlmODc4XkEyXkFqcGc@.V1.jpg"
+  },
+  {
+    "title": "Ground Zero",
+    "year": "2024",
+    "rated": "R",
+    "type": "movie",
+    "image": "https://www.sacnilk.com/image/bunnyimagenews.php?newsid=1000022827"
+  },
+  {
+    "title": "Ruth & Boaz",
+    "year": "2025",
+    "rated": "R",
+    "type": "movie",
+    "image": "https://static0.moviewebimages.com/wordpress/wp-content/uploads/2025/10/ruth-and-boaz-tyler-perry-netflix-streaming-offensive-bible-retelling-movie.jpg?w=1600&h=900&fit=crop"
+  },
+  {
+    "title": "Kraven the Hunter",
+    "year": "2024",
+    "rated": "R",
+    "type": "movie",
+    "image": "https://i0.wp.com/novastreamnetwork.com/wp-content/uploads/2024/12/kraven-the-hunter-061923-68-5f8fb55dc0ef42b682a12935f294f8f7.jpg?fit=1500%2C1000&ssl=1"
+  },
+  {
+    "title": "Tehran",
+    "year": "2025",
+    "rated": "TV-MA",
+    "type": "movie",
+    "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202508/tehran--john-abraham-14221163-16x9_0.jpg?VersionId=DrAOK4_0naxPPXFPO1HS1cNw7EbKavfe&size=690:388"
+  },
+
+  {
+    "title": "Adolescence",
+    "year": "2025",
+    "rated": "TV-MA",
+    "type": "series",
+    "image": "https://occ-0-8407-2218.1.nflxso.net/dnm/api/v6/Z-WHgqd_TeJxSuha8aZ5WpyLcX8/AAAABcR3DPmIDh8csnN8qbIF9eerIzlRRXDPhKl6-a-DFAY9Uujj5kMksVeqJFwN7PSE8k-fRYzHs6p294jzbNEpez4cekQTLOfFveix.jpg?r=92c"
+  },
+  {
+    "title": "House of Guinness",
+    "year": "2025",
+    "rated": "TV-MA",
+    "type": "series",
+    "image": "https://dnm.nflximg.net/api/v6/BvVbc2Wxr2w6QuoANoSpJKEIWjQ/AAAAQWLT0CsxLA2nB0wU7MfzrHnj8bs7MA0MOjf3mXI36q_XwyZxTunsZmsD6x6Yd6CEZG5aYIcrAwP_VFgEpkQFQW_nP4HYhmRcqlvpP5lgFEh4215uDZpwrO1WFX-bFtJC9ZuM92dHvnAalp11yPUhQ_fYKDQ.jpg?r=20d"
+  },
+  {
+    "title": "Wednesday Season 2",
+    "year": "2025",
+    "rated": "TV-14",
+    "type": "series",
+    "image": "https://images.squarespace-cdn.com/content/v1/51b3dc8ee4b051b96ceb10de/34b18784-4d52-4492-b9ef-e577ad451c9a/WEDNESDAY+Season+2+Trailer+and+Poster+-+%2522The+Wait+Has+Been+Torture%2522.jpg?format=1500w"
+  },
+  {
+    "title": "Genie, Make a Wish",
+    "year": "2025",
+    "rated": "TV-MA",
+    "type": "series",
+    "image": "https://images.timesnownews.com/thumb/msid-152495200,thumbsize-178490,width-1280,height-720,resizemode-75/152495200.jpg"
+  },
+  {
+    "title": "The Last of Us Season 2",
+    "year": "2025",
+    "rated": "TV-MA",
+    "type": "series",
+    "image": "https://static0.moviewebimages.com/wordpress/wp-content/uploads/2024/06/last-of-us-2.jpg"
+  },
+  {
+    "title": "Tempest",
+    "year": "2025",
+    "rated": "TV-14",
+    "type": "series",
+    "image": "https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/8c345160-cb3d-4ba8-999d-5c2c0cb69281/compose?aspectRatio=1.78&format=webp&width=1200"
+  },
+  {
+    "title": "Black Rabbit",
+    "year": "2025",
+    "rated": "TV-MA",
+    "type": "series",
+    "image": "https://hips.hearstapps.com/hmg-prod/images/jude-law-and-jason-bateman-in-black-rabbit-68a704eac6746.png?crop=0.8888888888888888xw:1xh;0,0"
+  },
+  {
+    "title": "Untamed",
+    "year": "2025",
+    "rated": "TV-MA",
+    "type": "series",
+    "image": "https://mr.comingsoon.it/imgdb/SerieTV/news/1/205146_ppl.jpg"
+  },
+  {
+    "title": "Hostage",
+    "year": "2025",
+    "rated": "TV-MA",
+    "type": "series",
+    "image": "https://ntvb.tmsimg.com/assets/p30812842_b_h10_ab.jpg?w=960&h=540"
+  },
+  {
+    "title": "Stranger Things Final Season",
+    "year": "2025",
+    "rated": "TV-14",
+    "type": "series",
+    "image": "https://m.economictimes.com/thumb/msid-121547027,width-1600,height-900,resizemode-4,imgsize-131536/stranger-things-season-5.jpg"
+  },
+  {
+    "title": "You Season 5",
+    "year": "2025",
+    "rated": "TV-MA",
+    "type": "series",
+    "image": "https://variety.com/wp-content/uploads/2025/01/You-Season-5-key-art-e1736974941646.jpg?w=1000&h=667&crop=1"
+  },
+  {
+    "title": "Squid Game Season 3",
+    "year": "2025",
+    "rated": "TV-MA",
+    "type": "series",
+    "image": "https://dnm.nflximg.net/api/v6/BvVbc2Wxr2w6QuoANoSpJKEIWjQ/AAAAQaVpr_38c8yikyTUODl68wB3rCEtmGrj6rFFyi1mMaDwA4sX6u0F2EejNpUGQIqLtSIYEcR-lBNlCCgaNiFQ6mGzqG6_UQsJYO6sWfuYdMQCSvt13255fuCHXUQfAmNSg8MngVBN6ulE6eT8vifcDf4Uy5s.jpg?r=ec6"
+  },
+  {
+    "title": "Mobius",
+    "year": "2025",
+    "rated": "TV-14",
+    "type": "series",
+    "image": "https://occ-0-8407-2219.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABZdepzNZS4ekPBYxsK4DMIxSuRttgMPTcjT5YKmBlebjSzK2mo3CSGZPlbi0AYkPrIew9pCJRPJ2tqIqQdHzr3pUD5W7OPR5gdwi.jpg?r=d71"
+  },
+  {
+    "title": "Daredevil: Born Again",
+    "year": "2025",
+    "rated": "TV-MA",
+    "type": "series",
+    "image": "https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/006666b2-db37-49a7-beeb-4af2459c8254/compose?aspectRatio=1.78&format=webp&width=1200"
+  },
+
+  {
+    "title": "It: Welcome to Derry",
+    "year": "2025",
+    "rated": "R",
+    "type": "series",
+    "image": "https://www.tvinsider.com/wp-content/uploads/2025/05/it-welcome-to-derry-hbo.jpg"
+  },
+  {
+    "title": "Emily in Paris Season 5",
+    "year": "2025",
+    "rated": "TV-14",
+    "type": "series",
+    "image": "https://hips.hearstapps.com/hmg-prod/images/emily-in-paris-66e8410ce7eb8.jpg?crop=1xw:0.84375xh;center,top"
+  },
+  {
+    "title": "Government Cheese",
+    "year": "2025",
+    "rated": "TV-MA",
+    "type": "series",
+    "image": "https://i.ytimg.com/vi/7fQf2o2kEMQ/maxresdefault.jpg"
+  },
+  {
+    "title": "Your Friends & Neighbors",
+    "year": "2025",
+    "rated": "TV-MA",
+    "type": "series",
+    "image": "https://m.media-amazon.com/images/S/pv-target-images/795260e5335c0fe0f537080e71c12e07263db091b217c312e3c16abee9663e7b.SX1080_FMjpg.jpg"
+  },
+  {
+    "title": "Pluribus",
+    "year": "2025",
+    "rated": "PG-13",
+    "type": "series",
+    "image": "https://variety.com/wp-content/uploads/2025/07/Pluribus_101_F00001F_3f5e1a-e1753393618109.jpg"
+  },
+  {
+    "title": "The Age of Innocence",
+    "year": "2025",
+    "rated": "PG-13",
+    "type": "series",
+    "image": "https://resizing.flixster.com/f2eZ5_W1wXnhBNC6Gp1hk-iQfQ8=/620x336/v2/https://statcdn.fandango.com/MPX/image/NBCU_Fandango/287/71/thumb_6FBD9C1A-57EF-4493-8966-C5B3255F99C9.jpg"
+  },
+
+  {
+    "title": "Trigger",
+    "year": "2025",
+    "rated": "TV-MA",
+    "type": "series",
+    "image": "https://www.heavenofhorror.com/wp-content/uploads/2025/07/Trigger-2025-Netflix-review.jpg"
+  },
+  {
+    "title": "Alien: Earth",
+    "year": "2025",
+    "rated": "TV-MA",
+    "type": "series",
+    "image": "https://images.justwatch.com/backdrop/321796717/s1920/alien-earth.avif"
+  },
+  {
+    "title": "House of David",
+    "year": "2025",
+    "rated": "TV-14",
+    "type": "series",
+    "image": "https://96five.com/wp-content/uploads/sites/3/2025/05/House-of-David-Supplied-and-used-with-permission.jpg"
+  },
+  {
+    "title": "Bridgerton Season 4",
+    "year": "2025",
+    "rated": "TV-MA",
+    "type": "series",
+    "image": "https://bloximages.newyork1.vip.townnews.com/dailynebraskan.com/content/tncms/assets/v3/editorial/0/39/0391dbfa-b091-11ec-a71e-7f129cf276bc/6245025ff401a.image.jpg?resize=1200%2C675"
+  },
+  {
+    "title": "Bon Appétit, Your Majesty",
+    "year": "2025",
+    "rated": "TV-14",
+    "type": "series",
+    "image": "https://i.mydramalist.com/zBWYXz_2f.png"
+  },
+  {
+    "title": "We Were Liars",
+    "year": "2025",
+    "rated": "TV-14",
+    "type": "series",
+    "image": "https://assets.teenvogue.com/photos/685d7414c0b8b1b8a01dd882/16:9/w_2560%2Cc_limit/WEWL_S1_Static2x3_Wading_2000x3000_PRE_PV_FINAL_en-US_KAPS.jpg"
+  },
+  {
+    "title": "Euphoria Season 3",
+    "year": "2025",
+    "rated": "TV-MA",
+    "type": "series",
+    "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2025/08/zendaya_rue_euphoria_3.jpg?w=1200&h=675&fit=crop"
+  },
+  {
+    "title": "Arcane Season 2",
+    "year": "2025",
+    "rated": "TV-14",
+    "type": "series",
+    "image": "https://culturedvultures.com/wp-content/uploads/2022/10/Wrcane-803x452.jpg"
+  }
+]
