@@ -13,6 +13,8 @@ const app = express();
 
 const port = process.env.PORT || 1010;
 
+app.use(cors({ origin: "*" }));
+
 app.use(express.json());
 app.use("/api/auth", authRouter);
 app.use("/api/movie", movieRouter);
