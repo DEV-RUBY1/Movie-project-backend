@@ -3,7 +3,6 @@ require("dotenv").config();
 const mongoose = require("mongoose");
 const Movies = require("./models/movies");
 const movieJson = require("./movies.json");
-const { login } = require("./controllers/authController");
 
 // we are about to populate , delete, update movie.json API to the database
 const populate = async () => {
