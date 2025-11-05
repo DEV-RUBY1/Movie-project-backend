@@ -20,7 +20,7 @@ const allSeries = async (req, res) => {
 // CONTROLLER TO GET ONLY ALL THE MOVIES
 const allMovies = async (req, res) => {
   try {
-    const movies = await Movies.find({ type: "movies" });
+    const movies = await Movies.find({ type: "movie" });
     res.status(200).json({ movies });
   } catch (error) {
     res.status(400).json({ message: error.message });
