@@ -12,7 +12,7 @@ const allData = async (req, res) => {
 const allSeries = async (req, res) => {
   try {
     const series = await Movies.find({ type: "series" });
-    res.status(200).json({ series });
+    res.status(200).json({ data: series });
   } catch (error) {
     res.status(400).json({ message: error.message });
   }
@@ -21,7 +21,7 @@ const allSeries = async (req, res) => {
 const allMovies = async (req, res) => {
   try {
     const movies = await Movies.find({ type: "movie" });
-    res.status(200).json({ movies });
+    res.status(200).json({ data: movies });
   } catch (error) {
     res.status(400).json({ message: error.message });
   }
